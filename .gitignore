@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+*.pt
+*.onnx
+*.engine
+runs/
+results/raw/*
+results/processed/*
+videos/
+datasets/
+.vscode/
+.idea/
+.DS_Store
