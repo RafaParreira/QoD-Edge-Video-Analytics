@@ -1,0 +1,7 @@
+dataset,deadline_ms,total_requests,deadline_misses,deadline_compliant,dmr_percent
+all_frames,100,3917,40,3877,1.021
+all_frames,150,3917,17,3900,0.434
+all_frames,200,3917,6,3911,0.153
+steady_state,100,3916,39,3877,0.996
+steady_state,150,3916,16,3900,0.409
+steady_state,200,3916,5,3911,0.128

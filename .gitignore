@@ -1,15 +1,22 @@
+# Python
 __pycache__/
 *.py[cod]
 .venv/
 venv/
+
+# Modelos
 *.pt
 *.onnx
 *.engine
+
+# Execuções
 runs/
-results/raw/*
-results/processed/*
+
+# Vídeos e datasets
 videos/
 datasets/
+
+# Editores
 .vscode/
 .idea/
 .DS_Store
